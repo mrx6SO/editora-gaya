@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+
+<html lang="pt-br">
+
+<head>
+
+ <title>Jornal Correio Da Palavra</title>
+
+  <meta charset="UTF-8">
+  <meta name="keywords" content="Site, Web, Responsivo, Concursos, Academia Internacional de Artes, Letras e Ciências, ALPAS 21, Editora Gaya, Cruz Alta, Jornal Correio da Palavra, Noroeste, Rio Grande do Sul, Livros, Coletâneas">  
+  <meta name="author" content="Desenvoledor Freelancer Gaya, Cruz Alta, GitHub, Contato, Backend, Frontend">
+  <meta name="description" content="Divulgação, Editora Gaya, Cruz Alta, Jornal Correio da Palavra, Cruz Alta, Rio Grande do Sul, Livros, Coletâneas">
+  <meta property="og:url" content="alpas21editoragaya.com.br">
+  <meta property="og:image:width" content="1440">
+  <meta property="og:image:width" content="900">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  
+<style>
+	
+* { box-sizing: border-box;
+
+  }
+
+body {
+
+  font-family: Arial, Helvetica, sans-serif;
+  
+}
+
+/* Style the header */
+
+.header {
+	
+  padding: 80px;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  background-color: #008080;
+  color: black;
+}
+
+/* Increase the font size of the h1 element */
+
+.header h1 {
+
+  font-size: 30px;
+  
+  text-align: center;
+}
+
+/* Main column */
+
+.main {   
+  flex: 70%;
+  background-color: lightgrey;
+  padding: 20px;
+}
+
+/* Responsive images */
+
+.img-theme {
+	
+  width: 30%;
+  height: auto;
+ 
+}
+
+</style>
+</head>
+
+<body>
+    
+
+<div class="header">
+
+  <!-- <img src="alpas.png" style="float: right; position: relative; width: 100px; height: 100px; display: block;"> -->
+
+  <i><h1>Editora Gaya e ALPAS 21</h1></i>
+  <em><p>Publicação de livros, coletâneas e mais.</em></p>
+  
+  <img class="img-theme" src="/logosalpas/JCP.png">
+  
+  </div>
+  
+  
+  <div class="main">
+  
+  <section>
+  
+    <article>
+  
+  <embed src="/logosalpas/jcp012020.pdf" type="application/pdf" height="1000px" width="100%">
+  
+      
+  </article>      
+  </section>
+ 
+  </div> 
+  
+  </body>
+  </html>
