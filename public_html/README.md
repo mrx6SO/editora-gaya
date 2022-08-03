@@ -1,2 +1,1 @@
-"# editora-gaya" 
-"# editora-gaya" 
+# Site da Editora Gaya
